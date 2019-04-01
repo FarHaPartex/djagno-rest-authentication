@@ -20,3 +20,10 @@ It is pretty-much straight forward.
 2. User can login 
 3. Only super admin can view all user-list
 4. Normal user can create their onw profile data (Phone, Address, Profile Image)
+
+## API ENDPOINTS
+
+1. User registration API ( 127.0.0.1:8000/api/v1/rest-auth/registration/ ) 
+2. User login API ( 127.0.0.1:8000/api/v1/rest-auth/login/ ) 
+3. User Profile List API, access by only Admin ( 127.0.0.1:8000/api/v1/user-profile/list/ ) 
+4. User own profile create, update, delete API ( 127.0.0.1:8000/api/v1/profile/ ) 
