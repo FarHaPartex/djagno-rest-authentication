@@ -4,8 +4,11 @@
 page_data.pickle
 **/*~
 **/*.pyc
+server/static
+server/static/*
 server/media
 server/media/*
 .vscode*
 server/media_files/*
 server/media_files
+server/.coverage
